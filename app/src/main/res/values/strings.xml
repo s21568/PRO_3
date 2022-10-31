@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PRO_3</string>
+    <string name="logIn">Log In</string>
+    <string name="logOut">Log Out</string>
+    <string name="Register">Register</string>
+    <string name="Save">Save</string>
+    <string name="Back">Back</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="NickName">NickName</string>
+</resources>
